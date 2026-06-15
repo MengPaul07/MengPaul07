@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Paul Meng 👋
+# Hey, I'm MengPaul 👋
 
-**CS Undergrad @ 北京交通大学 计算机科学与技术(2025–) · Beijing, CN**
+**CS Undergrad @ 北京交通大学 计算机科学与技术(2025–) · Beijing Jiaotong University, CN**
 
 [![GitHub](https://img.shields.io/badge/GitHub-MengPaul07-24292e?style=flat&logo=github)](https://github.com/MengPaul07)
 
@@ -25,7 +25,7 @@
 
 **Agent 工程** — 关心循环引擎的里层，不是框架的壳。工具调用、多 Agent 编排、调度设计，都从零写过。
 
-**工程底座** — SSE 流式推送、分级重试、错误码分类、降级兜底。脚手架和模型本身一样值钱。
+**工程底座** — SSE 流式推送、分级重试、错误码分类、降级兜底。外在框架和模型本身同等重要。
 
 </td>
 </tr>
