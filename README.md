@@ -39,7 +39,6 @@ mengpaul07@outlook.com
 
 #### [Resume Studio](https://github.com/MengPaul07/resume-studio) — AI-Native Resume Workspace
 
----
 
 #### [Paulo CLI](https://github.com/MengPaul07/paulo-cli) — Multi-Agent Coding CLI
 
